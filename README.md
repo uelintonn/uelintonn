@@ -1,4 +1,4 @@
-![CleanShot 2024-06-06 at 10 08 16](https://github.com/uelintonn/uelintonn/assets/79346985/09af580a-a3fe-4620-a534-579ec31f7cc0)## Hi there 👋
+## Hi there 👋
 
 <!--
 **uelintonn/uelintonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
